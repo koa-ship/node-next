@@ -1,6 +1,6 @@
 {
   "name": "node-next",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Using babel to bring more es-next features to Node.",
   "main": "index.js",
   "scripts": {},
