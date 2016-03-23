@@ -23,7 +23,9 @@
     "babel-plugin-transform-es2015-unicode-regex": "^6.0.0",
     "babel-plugin-transform-es2015-destructuring": "^6.0.0",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.0.0",
-    "babel-plugin-transform-async-to-generator": "^6.0.0"
+    "babel-plugin-transform-async-to-generator": "^6.0.0",
+    "babel-plugin-syntax-async-functions": "^6.0.0",
+    "babel-plugin-syntax-async-generators": "^6.0.0"
   },
   "devDependencies": {},
   "engines": {
