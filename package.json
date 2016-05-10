@@ -1,12 +1,12 @@
 {
   "name": "node-next",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Using babel to bring more es-next features to Node.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/seandou/node-next.git"
+    "url": "https://github.com/koa-ship/node-next.git"
   },
   "keywords": [
     "node",
@@ -34,7 +34,7 @@
   "author": "Sean Dou",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seandou/node-next/issues"
+    "url": "https://github.com/koa-ship/node-next/issues"
   },
-  "homepage": "https://github.com/seandou/node-next#readme"
+  "homepage": "https://github.com/koa-ship/node-next#readme"
 }
